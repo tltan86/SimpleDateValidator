@@ -2,10 +2,11 @@
 
 This README.md is still work in progress.
 
-## Reference
+### How-to
 
-Refer to this sample [README.md](https://raw.github.com/github/android/master/README.md) file.
+Refer to [Wiki](https://github.com/tltan86/SimpleDateValidator/wiki) for implementation.
 
-### Others
 
-Nothing here.
+### For Myself
+
+Refer to this sample [README.md](https://raw.github.com/github/android/master/README.md) on how to build this page.
