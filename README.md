@@ -4,8 +4,6 @@
 
 This is NOT my work and I do not claim any credits from this. I only made minor changes to the original code that addresses 'backspace' bug.
 
-Refer to [Changelog](https://github.com/tltan86/SimpleDateValidator/wiki).
-
 ## How-to
 
 Refer to [Wiki](https://github.com/tltan86/SimpleDateValidator/wiki) for implementation.
