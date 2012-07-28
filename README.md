@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This is NOT my work and I do not claim any credit from this. I only made minor changes to the original code that enhanced the UX.
+This is NOT my work and I do not claim any credits from this. I only made minor changes to the original code that addresses 'backspace' bug.
 
 Refer to [Changelog](https://github.com/tltan86/SimpleDateValidator/wiki).
 
@@ -33,4 +33,4 @@ Website: http://javascript.internet.com
 ## Changelog
 
 - Added original source code
-- Added a check to prevent any other keys pressed to 'backspace' the value
+- Added a check to prevent any other keys pressed that will cause 'backspace' to the data
