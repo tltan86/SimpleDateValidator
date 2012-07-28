@@ -8,7 +8,7 @@ This is NOT my work and I do not claim any credits from this. I only made minor 
 
 Refer to [Wiki](https://github.com/tltan86/SimpleDateValidator/wiki) for implementation.
 
-### Step 1: Include 'SimpleDateValidator.js' javascript into the <head> section of your webpage:
+### Step 1: Include 'SimpleDateValidator.js' javascript into the head section of your webpage:
 
 	<script type="text/javascript" src="SimpleDateValidator.js"></script>
 
